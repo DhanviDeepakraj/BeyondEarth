@@ -2,7 +2,9 @@
 
 ## Space Exploration and Astronomy Website
 
-Beyond Earth is an educational astronomy website that provides information about space exploration, celestial events, constellations, astrophotography, and recent developments in space science.
+Beyond Earth is an educational astronomy website designed to provide users with engaging and informative content related to space exploration and astronomical phenomena. The website features dedicated sections for celestial events, constellations, astrophotography, and the latest developments in space science.
+
+Developed using HTML, CSS, and JavaScript, the project focuses on delivering a visually appealing and responsive user experience through interactive navigation, image-rich content, and topic-specific pages. The platform serves as a simple learning resource for students, astronomy enthusiasts, and anyone interested in exploring the universe.
 
 ## 🌐 Live Demo
 
