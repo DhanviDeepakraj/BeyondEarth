@@ -62,4 +62,4 @@ git clone <repository-url>
 
 ## 📄 Project Report
 
-A detailed project report containing screenshots, architecture, implementation details, and future scope is included in this repository.
+A detailed project report containing screenshots, architecture, implementation details, and future scope is included in this repository as 'BeyondEarth Report.pdf'.
